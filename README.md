@@ -1,4 +1,4 @@
-# PowerBI-Analytics-Projects
+# Power BI Analytics Projects
 
 This repository contains a collection of Power BI projects showcasing various data visualization techniques and insights. 
 Each project is designed to address specific business questions and provide actionable insights through interactive dashboards and reports.
