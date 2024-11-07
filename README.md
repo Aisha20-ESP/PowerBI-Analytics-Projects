@@ -4,7 +4,7 @@ This repository contains a collection of Power BI projects showcasing various da
 Each project is designed to address specific business questions and provide actionable insights through interactive dashboards and reports.
 
 
-## Projects
+## MAERSK Projects
 
 ### NPS Analysis](Customer Satisfaction and Loyalty
 This report gives a breakdown of "NPS" (Net Promoter Score) for a shipping company. 
