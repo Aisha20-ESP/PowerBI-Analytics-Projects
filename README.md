@@ -6,7 +6,7 @@ Each project is designed to address specific business questions and provide acti
 
 ## Projects
 
-### [NPS Analysis](Customer Satisfaction and Loyalty/)
+### [NPS Analysis](Customer Satisfaction and Loyalty/).
 This report gives a breakdown of "NPS" (Net Promoter Score) for a shipping company. 
 Basically NPS score is a widely used metric that measures customer loyalty and satisfaction based on the likelihood of customers to recommend the "company's products and services" to others.
 This play a crucial role in shaping strategies for customer service improvement.
